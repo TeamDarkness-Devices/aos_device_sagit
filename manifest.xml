@@ -331,7 +331,6 @@
             <instance>default</instance>
         </interface>
     </hal>
-<!--
     <hal format="hidl">
         <name>com.qualcomm.qti.ant</name>
         <transport>hwbinder</transport>
@@ -341,7 +340,6 @@
             <instance>default</instance>
         </interface>
     </hal>
--->
     <hal format="hidl">
         <name>com.qualcomm.qti.dpm.api</name>
         <transport>hwbinder</transport>
