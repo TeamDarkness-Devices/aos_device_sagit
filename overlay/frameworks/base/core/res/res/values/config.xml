@@ -514,4 +514,8 @@
 
     <!-- Device supports Sustained Performance Mode-->
     <bool name="config_sustainedPerformanceModeSupported">true</bool>
+
+    <!-- Bool for key backlight -->
+    <bool name="config_button_brightness_support">true</bool>
+    
 </resources>
