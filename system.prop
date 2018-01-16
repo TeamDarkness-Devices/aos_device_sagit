@@ -197,3 +197,6 @@ persist.sys.wfd.virtual=0
 
 # Wlan
 ro.wlan.mimo=1
+
+# Maintainer 
+ro.aos.maintainer=NisseCool
