@@ -149,8 +149,8 @@ PRODUCT_PACKAGES += \
     libtinyxml
 
 # Doze
-# PRODUCT_PACKAGES += \
-#     XiaomiDoze
+PRODUCT_PACKAGES += \
+    XiaomiDoze
 
 # For config.fs
 PRODUCT_PACKAGES += \
